@@ -12,7 +12,7 @@ void setup() {
   FastLED.setBrightness(BRIGHTNESS);
   FastLED.addLeds<CHIPSET, DATA_PIN>(leds, NUM_LEDS);
   FastLED.clear();
-  Serial.begin(9600);
+  //Serial.begin(9600);
 }
 
 void loop() {

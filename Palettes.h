@@ -1,7 +1,7 @@
 DEFINE_GRADIENT_PALETTE( fireplace ) {
-    0, 96, 30, 0,
-   128, 128, 40,  0,
-  255,  96,  50,  0};
+    0, 96, 90, 0,
+   220, 200, 40,  40,
+  255,  255,  20,  50};
 
 DEFINE_GRADIENT_PALETTE( storm ) {
     0,  255,0,  0,
